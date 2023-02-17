@@ -1,5 +1,5 @@
-# thesis
-Customer Behavior Segmentation using RFM analysis: A machine learning approach
+# Customer Behavior Segmentation using RFM analysis: A machine learning approach
+
 
 Abstract:
 In e-commerce companies like online retails, customer segmentation is necessary in order to understand customer's behaviors. It leverages acquired customer data like the one we have in our case, transactions data in order to divide customers into groups. The communication between a business organization and its customers is called Customer Relationship Management. In recent years, overall, every company focuses on (CRM) to give the best services to their customer compared to other competitors [3]. Customer Relationship management plays a vital role in this sector.
